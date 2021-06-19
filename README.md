@@ -1,5 +1,5 @@
 # **Django-pollApp**
-![GitHub Logo](C:\Users\Sheetal Pandey\Projects\Django-Poll-App\logo)
+![GitHub Logo](\logo\Logo.png)
 
 It is a full featured Polling App.
 1. It will require a registration to view the existing polls and vote.
